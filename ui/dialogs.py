@@ -29,8 +29,8 @@ def open_nfo_window(e, page: ft.Page):
                         [
                             ft.Text("My website:", expand=1, size=18),
                             ft.IconButton(
-                                icon=ft.icons.WEB,
-                                on_click=lambda e: open_link("https://mywebsite.com"),
+                                icon=ft.Icons.WEB,
+                                # on_click=lambda e: open_link("https://mywebsite.com"),
                             ),
                         ]
                     ),
@@ -38,8 +38,8 @@ def open_nfo_window(e, page: ft.Page):
                         [
                             ft.Text("My mail:", expand=1, size=18),
                             ft.IconButton(
-                                icon=ft.icons.EMAIL,
-                                on_click=lambda e: open_link("mailto:alexgicheva@gmail.com"),
+                                icon=ft.Icons.EMAIL,
+                                on_click=lambda e: open_link("mailto:nondeletable@gmail.com"),
                             ),
                         ]
                     ),
@@ -47,8 +47,8 @@ def open_nfo_window(e, page: ft.Page):
                         [
                             ft.Text("My github:", expand=1, size=18),
                             ft.IconButton(
-                                icon=ft.icons.HUB,
-                                on_click=lambda e: open_link("https://github.com/SkriptSparrow"),
+                                icon=ft.Icons.HUB,
+                                on_click=lambda e: open_link("https://github.com/nondeletable"),
                             ),
                         ]
                     ),

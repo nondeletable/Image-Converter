@@ -63,3 +63,246 @@
 2025-09-24 20:28:19,600 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
 2025-09-24 20:28:19,600 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
 2025-09-24 20:28:19,791 [INFO] App session started
+2025-09-27 14:02:02,792 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-09-27 14:02:02,797 [INFO] Starting up TCP server on localhost:54378
+2025-09-27 14:02:02,805 [INFO] Flet app has started...
+2025-09-27 14:02:02,812 [INFO] App URL: tcp://localhost:54378
+2025-09-27 14:02:02,813 [INFO] Starting Flet View app...
+2025-09-27 14:02:02,814 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:02:02,814 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:02:03,416 [INFO] App session started
+2025-09-27 14:02:45,327 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-09-27 14:02:45,329 [INFO] Starting up TCP server on localhost:54429
+2025-09-27 14:02:45,336 [INFO] Flet app has started...
+2025-09-27 14:02:45,341 [INFO] App URL: tcp://localhost:54429
+2025-09-27 14:02:45,341 [INFO] Starting Flet View app...
+2025-09-27 14:02:45,342 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:02:45,342 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:02:45,534 [INFO] App session started
+2025-09-27 14:03:06,170 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-09-27 14:03:06,172 [INFO] Starting up TCP server on localhost:54453
+2025-09-27 14:03:06,178 [INFO] Flet app has started...
+2025-09-27 14:03:06,183 [INFO] App URL: tcp://localhost:54453
+2025-09-27 14:03:06,183 [INFO] Starting Flet View app...
+2025-09-27 14:03:06,185 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:03:06,185 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:03:06,391 [INFO] App session started
+2025-09-27 14:03:27,609 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-09-27 14:03:27,611 [INFO] Starting up TCP server on localhost:54497
+2025-09-27 14:03:27,617 [INFO] Flet app has started...
+2025-09-27 14:03:27,622 [INFO] App URL: tcp://localhost:54497
+2025-09-27 14:03:27,622 [INFO] Starting Flet View app...
+2025-09-27 14:03:27,623 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:03:27,623 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-27 14:03:27,820 [INFO] App session started
+2025-09-28 14:51:03,099 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-09-28 14:51:03,102 [INFO] Starting up TCP server on localhost:64190
+2025-09-28 14:51:03,108 [INFO] Flet app has started...
+2025-09-28 14:51:03,114 [INFO] App URL: tcp://localhost:64190
+2025-09-28 14:51:03,114 [INFO] Starting Flet View app...
+2025-09-28 14:51:03,115 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-28 14:51:03,116 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-28 14:51:03,379 [INFO] App session started
+2025-09-29 14:46:57,249 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-09-29 14:46:57,252 [INFO] Starting up TCP server on localhost:50946
+2025-09-29 14:46:57,259 [INFO] Flet app has started...
+2025-09-29 14:46:57,265 [INFO] App URL: tcp://localhost:50946
+2025-09-29 14:46:57,265 [INFO] Starting Flet View app...
+2025-09-29 14:46:57,266 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-29 14:46:57,267 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-09-29 14:46:57,810 [INFO] App session started
+2025-09-29 14:47:13,223 [INFO] User triggered convert: dir=C:\Users\Administrator\PycharmProjects\Flask_learning\Business card\MyCard\static\images, format=JPG, mask=img
+2025-09-29 14:47:13,225 [INFO] Start convert: dir=C:\Users\Administrator\PycharmProjects\Flask_learning\Business card\MyCard\static\images, format=JPG, mask=img
+2025-09-29 14:47:13,309 [INFO] Converted: catalog-agt.png -> img001.jpeg
+2025-09-29 14:47:13,310 [INFO] Renamed: hp-quiz.jpg -> img002.jpeg
+2025-09-29 14:47:13,311 [INFO] Renamed: image-converter.jpg -> img003.jpeg
+2025-09-29 14:47:13,312 [INFO] Renamed: image.jpeg -> img004.jpeg
+2025-09-29 14:47:13,314 [INFO] Converted: model-agency.png -> img005.jpeg
+2025-09-29 14:47:13,315 [INFO] Renamed: password-generator.jpg -> img006.jpeg
+2025-09-29 14:47:13,315 [INFO] Renamed: url-cutter.jpg -> img007.jpeg
+2025-09-29 14:47:13,315 [INFO] Finished. Stats={'renamed': 5, 'converted': 2, 'skipped': 0}
+2025-09-29 14:47:13,317 [INFO] Done. Converted=2, Renamed=5, Skipped=0
+2025-12-09 15:25:01,803 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-12-09 15:25:01,807 [INFO] Starting up TCP server on localhost:58484
+2025-12-09 15:25:01,813 [INFO] Flet app has started...
+2025-12-09 15:25:01,819 [INFO] App URL: tcp://localhost:58484
+2025-12-09 15:25:01,819 [INFO] Starting Flet View app...
+2025-12-09 15:25:01,821 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:25:01,821 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:25:02,333 [INFO] App session started
+2025-12-09 15:26:05,798 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:08,040 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:08,791 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:09,293 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:09,473 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:09,645 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:09,803 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:09,960 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:26:10,125 [ERROR] Future exception was never retrieved
+future: <Future finished exception=AttributeError("module 'flet' has no attribute 'icons'")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet\core\page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\window_controls.py", line 17, in <lambda>
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+                                                                      ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\ui\dialogs.py", line 32, in open_nfo_window
+    icon=ft.icons.WEB,
+         ^^^^^^^^
+AttributeError: module 'flet' has no attribute 'icons'. Did you mean: 'Icons'?
+2025-12-09 15:27:37,622 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-12-09 15:27:37,624 [INFO] Starting up TCP server on localhost:58574
+2025-12-09 15:27:37,630 [INFO] Flet app has started...
+2025-12-09 15:27:37,635 [INFO] App URL: tcp://localhost:58574
+2025-12-09 15:27:37,635 [INFO] Starting Flet View app...
+2025-12-09 15:27:37,636 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:27:37,637 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:27:37,829 [INFO] App session started
+2025-12-09 15:29:35,401 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-12-09 15:29:35,404 [INFO] Starting up TCP server on localhost:58642
+2025-12-09 15:29:35,410 [INFO] Flet app has started...
+2025-12-09 15:29:35,415 [INFO] App URL: tcp://localhost:58642
+2025-12-09 15:29:35,415 [INFO] Starting Flet View app...
+2025-12-09 15:29:35,416 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:29:35,416 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:29:35,708 [INFO] App session started
+2025-12-09 15:32:19,234 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-12-09 15:32:19,237 [INFO] Starting up TCP server on localhost:58751
+2025-12-09 15:32:19,242 [INFO] Flet app has started...
+2025-12-09 15:32:19,247 [INFO] App URL: tcp://localhost:58751
+2025-12-09 15:32:19,247 [INFO] Starting Flet View app...
+2025-12-09 15:32:19,248 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:32:19,248 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:32:19,453 [INFO] App session started
+2025-12-09 15:32:28,413 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-12-09 15:32:28,416 [INFO] Starting up TCP server on localhost:58759
+2025-12-09 15:32:28,421 [INFO] Flet app has started...
+2025-12-09 15:32:28,427 [INFO] App URL: tcp://localhost:58759
+2025-12-09 15:32:28,427 [INFO] Starting Flet View app...
+2025-12-09 15:32:28,428 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:32:28,428 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:32:28,631 [INFO] App session started
+2025-12-09 15:50:56,273 [INFO] Assets path configured: C:\Users\Administrator\PycharmProjects\Apps\Image_Converter\assets
+2025-12-09 15:50:56,276 [INFO] Starting up TCP server on localhost:59395
+2025-12-09 15:50:56,282 [INFO] Flet app has started...
+2025-12-09 15:50:56,288 [INFO] App URL: tcp://localhost:59395
+2025-12-09 15:50:56,288 [INFO] Starting Flet View app...
+2025-12-09 15:50:56,289 [INFO] Looking for Flet executable at: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:50:56,289 [INFO] Flet View found in: C:\Users\Administrator\PycharmProjects\Flask_learning\Model_agency\.venv\Lib\site-packages\flet_desktop\app\flet\flet.exe
+2025-12-09 15:50:56,504 [INFO] App session started
+2025-12-09 15:51:05,042 [INFO] User triggered convert: dir=, format=JPG, mask=img

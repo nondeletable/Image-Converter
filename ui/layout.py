@@ -40,8 +40,8 @@ def build_layout(page: ft.Page):
 
     # footer
     footer = ft.Text(
-        "DEVELOPED BY CODEBIRD",
-        color=ft.colors.GREY_500,
+        "DEVELOPED BY NONDELETABLE",
+        color=ft.Colors.GREY_500,
         text_align=ft.TextAlign.CENTER,
     )
 

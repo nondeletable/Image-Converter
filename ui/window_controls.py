@@ -13,9 +13,9 @@ def close_window(e, page: ft.Page):
 
 
 def build_title_bar(page: ft.Page):
-    close_button = ft.IconButton(ft.icons.CLOSE, on_click=lambda e: close_window(e, page))
-    maximize_button = ft.IconButton(ft.icons.MENU, on_click=lambda e: open_nfo_window(e, page))
-    minimize_button = ft.IconButton(ft.icons.REMOVE, on_click=lambda e: minimize_window(e, page))
+    close_button = ft.IconButton(ft.Icons.CLOSE, on_click=lambda e: close_window(e, page))
+    maximize_button = ft.IconButton(ft.Icons.MENU, on_click=lambda e: open_nfo_window(e, page))
+    minimize_button = ft.IconButton(ft.Icons.REMOVE, on_click=lambda e: minimize_window(e, page))
     drag_area = ft.WindowDragArea(
         ft.Container(height=50, width=1000), expand=True, maximizable=False
     )

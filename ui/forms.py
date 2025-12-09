@@ -31,7 +31,7 @@ def build_form(page: ft.Page):
             page.update()
 
     pick_directory_btn = ft.ElevatedButton(
-        content=ft.Icon(ft.icons.FOLDER_OPEN, color=ft.colors.WHITE),
+        content=ft.Icon(ft.Icons.FOLDER_OPEN, color=ft.Colors.WHITE, size=28),
         bgcolor=ACCENT,
         width=60,
         height=50,
@@ -66,7 +66,7 @@ def build_form(page: ft.Page):
         width=400,
         height=50,
         suffix=ft.IconButton(
-            icon=ft.icons.QUESTION_MARK_ROUNDED,
+            icon=ft.Icons.QUESTION_MARK_ROUNDED,
             on_click=lambda e: open_qu_window(e, page),
         ),
     )
@@ -89,7 +89,7 @@ def build_form(page: ft.Page):
 
         # валидация
         if not os.path.isdir(directory):
-            notify("The specified directory does not exist!", ft.colors.BLACK)
+            notify("The specified directory does not exist!", ft.Colors.BLACK)
             return
 
         try:
@@ -108,30 +108,30 @@ def build_form(page: ft.Page):
             processed = converted + renamed
 
             if processed == 0 and skipped == 0:
-                notify("No supported images found in the selected folder.", ft.colors.BLACK)
+                notify("No supported images found in the selected folder.", ft.Colors.BLACK)
                 log.info("No supported images found in %s", directory)
             elif processed == 0 and skipped > 0:
                 supported = ", ".join(sorted(ext.upper() for ext in ALLOWED_EXTENSIONS))
                 notify(
-                    f"All files were skipped ({skipped}). Supported: {supported}.", ft.colors.BLACK
+                    f"All files were skipped ({skipped}). Supported: {supported}.", ft.Colors.BLACK
                 )
                 log.warning("All files skipped in %s (count=%d)", directory, skipped)
             else:
                 notify(
                     f"Converted: {converted}, Renamed: {renamed}, Skipped: {skipped}.",
-                    ft.colors.BLACK,
+                    ft.Colors.BLACK,
                 )
                 log.info("Done. Converted=%d, Renamed=%d, Skipped=%d", converted, renamed, skipped)
 
         except Exception as ex:
-            notify(f"Error: {ex}", ft.colors.BLACK)
+            notify(f"Error: {ex}", ft.Colors.BLACK)
             log.error("Error during convert: %s", ex)
 
     btn_convert = ft.ElevatedButton(
         "CONVERT",
         on_click=on_convert,
         bgcolor=ACCENT,
-        color=ft.colors.WHITE,
+        color=ft.Colors.WHITE,
         width=120,
         style=ft.ButtonStyle(shape=ft.RoundedRectangleBorder(radius=8)),
     )

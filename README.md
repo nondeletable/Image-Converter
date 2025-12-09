@@ -1,3 +1,5 @@
+![CI](https://github.com/nondeletable/Image-Converter/actions/workflows/ci.yml/badge.svg)
+
 # 🖼️ Image Converter
 
 A simple desktop application for batch converting and renaming images, built with Python and Flet.
@@ -32,7 +34,7 @@ A simple desktop application for batch converting and renaming images, built wit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Image-Converter.git
+git clone https://github.com/nondeletable/Image-Converter.git
 cd Image-Converter
 ```
 
@@ -54,11 +56,11 @@ Main window
 ![Main window](assets/screenshots/app.jpg)
 
 ## 📦 Download
-You can download the latest .exe build from the Releases page.
+👉 You can download the latest .exe build from the [Release](https://github.com/nondeletable/Image-Converter/releases/latest) page.
 
 ## 📫 Contacts
 
-- Telegram: @Alex_Gicheva
-- Email: alexgicheva@gmail.com
+- Telegram: @nondeletable
+- Email: nondeletable@gmail.com
 
 ✨ Thank you for using Image Converter! We hope it saves you time and effort.
