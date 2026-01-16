@@ -1,4 +1,4 @@
-flet==0.24.1
+flet==0.28.3
 pillow==10.4.0
 pyinstaller==6.10.0
 pytest==8.3.3
