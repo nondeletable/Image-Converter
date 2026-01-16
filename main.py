@@ -31,4 +31,5 @@ if __name__ == "__main__":
     import multiprocessing as mp
 
     mp.freeze_support()
+    mp.set_start_method("spawn")
     ft.app(target=main)

@@ -1,6 +1,5 @@
 import logging
 import os
-from tkinter import Tk, filedialog
 
 import flet as ft
 
@@ -18,10 +17,13 @@ def build_form(page: ft.Page):
         hint_style=ft.TextStyle(color=ACCENT),
         border_color=ACCENT,
         focused_border_color=ACCENT,
-        width=330,
+        width=280,
+        height=48,
     )
 
     def open_directory_picker(e):
+        from tkinter import Tk, filedialog
+
         root = Tk()
         root.withdraw()
         directory = filedialog.askdirectory()
@@ -34,7 +36,7 @@ def build_form(page: ft.Page):
         content=ft.Icon(ft.Icons.FOLDER_OPEN, color=ft.Colors.WHITE, size=28),
         bgcolor=ACCENT,
         width=60,
-        height=50,
+        height=48,
         on_click=open_directory_picker,
         style=ft.ButtonStyle(shape=ft.RoundedRectangleBorder(radius=8)),
     )
@@ -53,7 +55,7 @@ def build_form(page: ft.Page):
             ft.dropdown.Option("JPEG"),
         ],
         value="JPG",
-        width=400,
+        width=350,
         border_color=ACCENT,
         color=ACCENT,
     )
@@ -63,8 +65,8 @@ def build_form(page: ft.Page):
         hint_style=ft.TextStyle(color=ACCENT),
         border_color=ACCENT,
         focused_border_color=ACCENT,
-        width=400,
-        height=50,
+        width=350,
+        height=48,
         suffix=ft.IconButton(
             icon=ft.Icons.QUESTION_MARK_ROUNDED,
             on_click=lambda e: open_qu_window(e, page),
@@ -132,12 +134,16 @@ def build_form(page: ft.Page):
         on_click=on_convert,
         bgcolor=ACCENT,
         color=ft.Colors.WHITE,
+        height=40,
         width=120,
-        style=ft.ButtonStyle(shape=ft.RoundedRectangleBorder(radius=8)),
+        style=ft.ButtonStyle(
+            shape=ft.RoundedRectangleBorder(radius=8),
+            text_style=ft.TextStyle(font_family="Rubik", size=18),
+        ),
     )
 
     return ft.Column(
         [directory_row, dropdown_format, txt_mask, btn_convert],
-        spacing=15,
+        spacing=10,
         horizontal_alignment=ft.CrossAxisAlignment.CENTER,
     )
