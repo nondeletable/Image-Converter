@@ -29,31 +29,15 @@ A simple desktop application for batch converting and renaming images, built wit
 
 ---
 
-## ⚙️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/nondeletable/Image-Converter.git
-cd Image-Converter
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the app:
-
-```bash
-python main.py
-```
-
 ## 📸 Screenshots
-Main window
 
-![Main window](assets/screenshots/app.jpg)
+![Main window](assets/screenshots/img_conv.png)
+
+![2](assets/screenshots/img_conv_2.png)
+
+![3](assets/screenshots/img_conv_3.png)
+
+---
 
 ## 📦 Download
 👉 You can download the latest .exe build from the [Release](https://github.com/nondeletable/Image-Converter/releases/latest) page.
