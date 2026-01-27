@@ -7,8 +7,9 @@ from ui.window_controls import build_title_bar
 def build_layout(page: ft.Page):
     page.window.center()
     page.title = "Image Converter"
+    page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.window.width = 445
-    page.window.height = 750
+    page.window.height = 746
     page.window.resizable = False
     page.window.title_bar_hidden = True
     page.theme_mode = ft.ThemeMode.LIGHT
@@ -22,7 +23,7 @@ def build_layout(page: ft.Page):
     MARGIN_TOP = 80
     MARGIN_IMG_TXT = 50
     MARGIN_MIDDLE = 15
-    MARGIN_BOTTOM = 7
+    MARGIN_BOTTOM = 2
 
     # header
     image = ft.Image(src="images/image.png", width=150, height=150)

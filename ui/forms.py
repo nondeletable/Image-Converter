@@ -13,8 +13,8 @@ log = logging.getLogger("app")
 
 def build_form(page: ft.Page):
     txt_directory = ft.TextField(
-        hint_text="Directory path",
-        hint_style=ft.TextStyle(color=ACCENT),
+        label="Directory path",
+        label_style=ft.TextStyle(color=ACCENT),
         border_color=ACCENT,
         focused_border_color=ACCENT,
         width=280,
@@ -61,8 +61,8 @@ def build_form(page: ft.Page):
     )
 
     txt_mask = ft.TextField(
-        hint_text="File name mask",
-        hint_style=ft.TextStyle(color=ACCENT),
+        label="File name mask",
+        label_style=ft.TextStyle(color=ACCENT),
         border_color=ACCENT,
         focused_border_color=ACCENT,
         width=350,
@@ -135,7 +135,7 @@ def build_form(page: ft.Page):
         bgcolor=ACCENT,
         color=ft.Colors.WHITE,
         height=40,
-        width=120,
+        width=130,
         style=ft.ButtonStyle(
             shape=ft.RoundedRectangleBorder(radius=8),
             text_style=ft.TextStyle(font_family="Rubik", size=18),
