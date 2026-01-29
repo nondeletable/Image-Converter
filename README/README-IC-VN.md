@@ -5,11 +5,11 @@
 <h2>Image Converter</h2>
 <p>Một ứng dụng desktop gọn gàng để đổi tên và chuyển đổi hình ảnh hàng loạt - nhanh chóng, tên tệp an toàn và kết quả ổn định.</p>
   <p>
-    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-UC-EN.md">English </a> |  
-    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-UC-DE.md">Deutsch </a> |
-    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-UC-CN.md">简体中文 </a> | 
-    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-UC-VN.md">Tiếng Việt </a> | 
-    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-UC-RU.md">Русский </a>
+    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-EN.md">English </a> |  
+    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-DE.md">Deutsch </a> |
+    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-CN.md">简体中文 </a> | 
+    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-VN.md">Tiếng Việt </a> | 
+    <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-RU.md">Русский </a>
     <br>
     <br>
     <img src="promo/img_conv_1.png" alt="Image Converter by nondeletable" width="98%"/>
