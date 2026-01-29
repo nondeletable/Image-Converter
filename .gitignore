@@ -12,6 +12,7 @@ env/
 build/
 dist/
 logs/
+logs/app.log
 *.spec
 
 # Coverage/test
@@ -23,4 +24,5 @@ htmlcov/
 # IDE
 .vscode/
 .idea/
+.idea/workspace.xml
 *.iml

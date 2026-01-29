@@ -1,50 +1,113 @@
-![CI](https://github.com/nondeletable/Image-Converter/actions/workflows/ci.yml/badge.svg)
+<div align="center">
+  <a href="https://github.com/nondeletable/Image-Converter">
+    <img src="/README/promo/img_conv_icon.webp" alt="Logo" width="100" height="100">
+  </a>
+<h2>Image Converter</h2>
+<p>A clean desktop app for batch renaming and converting images - fast, safe filenames, and predictable results.</p>
+  <p>
+    <a href="https://github.com/nondeletable/Image-Converter/tree/master/README/README-UC-EN.md">English </a> |  
+    <a href="https://github.com/nondeletable/Image-Converter/tree/master/README/README-UC-DE.md">Deutsch </a> |
+    <a href="https://github.com/nondeletable/Image-Converter/tree/master/README/README-UC-CN.md">简体中文 </a> | 
+    <a href="https://github.com/nondeletable/Image-Converter/tree/master/README/README-UC-VN.md">Tiếng Việt </a> | 
+    <a href="https://github.com/nondeletable/Image-Converter/tree/master/README/README-UC-RU.md">Русский </a>
+    <br>
+    <br>
+    <img src="/README/promo/img_conv_1.png" alt="Image Converter by nondeletable" width="98%"/>
+    <br>
+    <br>
+  </p>
+</div>
 
-# 🖼️ Image Converter
+## 🖼️ What this app does
 
-A simple desktop application for batch converting and renaming images, built with Python and Flet.
+Image Converter started as a small helper tool for a very real problem: reference folders -
+helping artists keep their image reference libraries clean and saving time on manual renaming.
 
----
+If you collect lots of references from Pinterest (mainly), Artstation, Behance, or Google Images, you know the pain: filenames are messy, extensions can be weird, and “renaming to .jpg” doesn’t always make the file usable.
 
-## 🚀 Features
+So this app does two things in one clean workflow: 
+**batch renaming** (by a predictable mask) and **real conversion** (so files open reliably).
+&nbsp;
+&nbsp;
 
-- Convert images into popular formats (**JPG/JPEG**, **PNG**, **WEBP**, **TIFF**, **GIF**).
-- Safe renaming with a user-defined filename mask (`mask001.jpg`, `mask002.jpg` …).
-- Automatic handling of duplicate names (adds `_copy`, `_copy2`).
-- Mask sanitizer: removes invalid characters for safe filenames.
-- Real-time progress and notifications.
-- Error handling and skipped file logging.
+## 🎨 Features
+
+- Batch rename messy image files into a clean mask like `ref_001.jpg`, `ref_002.jpg`…
+- Convert to a proper format (JPG/JPEG, PNG) so files open reliably.
+- Auto-handle duplicates by adding `_copy`, `_copy2`…
+- Sanitize filenames (removes invalid characters).
+- Show progress, skip broken files, and keep the workflow simple.
 - Clean and minimalist interface.
+&nbsp;
+&nbsp;
 
----
+## 😎 Privacy & security
 
-## 🛠 Technologies
+- ✅ Works locally on your machine.
+- ✅ No accounts, no analytics, no telemetry.
+- ✅ Your files never leave your PC.
+&nbsp;
+&nbsp;
+
+## ⚒ Installation
+
+- Go to **Releases** and download the latest ".exe".
+- Unzip anywhere (Desktop, Tools folder, USB drive).
+- Run "Image Converter.exe".
+&nbsp;
+&nbsp;
+
+## 🏓 How to use
+
+1. Select input folder.
+2. Choose output format.
+3. Set your filename mask (example: `ref_###` → `ref_001`, `ref_002`…).
+4. Click **Start** and wait for the progress to finish.
+
+<p align="center">
+  <img src="/README/promo/img_conv.png" alt="Main window" width="60%"/>
+</p>
+&nbsp;
+&nbsp;
+
+## 💾 Technologies
 
 - Python 3.13
-- [Flet](https://flet.dev/) — for GUI
-- [Pillow](https://python-pillow.org/) — for image conversion
-- PyInstaller — for exe builds
-- Pytest + Coverage — for testing
-- Ruff + Black — for linting and formatting
+- Flet (UI)
+- Pillow (conversion)
+- pytest + coverage (tests)
+- ruff, black, pre-commit (quality)
+- PyInstaller (Windows builds)
+&nbsp;
+&nbsp;
 
----
+## ✅ Quality
 
-## 📸 Screenshots
+- Test coverage: **87%**
+- Releases: **3** (total versions: **5**)
+- Windows build size: ~**83 MB**
+&nbsp;
+&nbsp;
 
-![Main window](assets/screenshots/img_conv.png)
+## ☎ Support & contacts
 
-![2](assets/screenshots/img_conv_2.png)
+If you’d like to collaborate or discuss a job opportunity - use any of the contacts below.
+For support/bugs, please use Discord or GitHub Issues. I usually reply within 24 hours.
 
-![3](assets/screenshots/img_conv_3.png)
+- 🐙 **GitHub** page (docs, releases, source code)  
+  https://github.com/nondeletable
+- 💬 **Discord** - news, support, questions, and bug reports  
+  https://discord.com/invite/6nvXwXp78u
+- ✈️ **Telegram** - direct messages  
+  https://t.me/nondeletable
+- 📧 **Email** - for formal or business inquiries  
+  nondeletable@gmail.com
+- 💼 **LinkedIn** - professional profile  
+  https://www.linkedin.com/in/aleksandra-gicheva-3b0264341/
+- ☕ **Boosty** - support my work and projects with donations  
+  https://boosty.to/codebird/donate  
+&nbsp;
+&nbsp;
 
----
-
-## 📦 Download
-👉 You can download the latest .exe build from the [Release](https://github.com/nondeletable/Image-Converter/releases/latest) page.
-
-## 📫 Contacts
-
-- Telegram: @nondeletable
-- Email: nondeletable@gmail.com
-
-✨ Thank you for using Image Converter! We hope it saves you time and effort.
+**Thank you for using Image Converter!**  
+Wishing you clean reference libraries and enjoyable creative work! 🖼️✨🙂
