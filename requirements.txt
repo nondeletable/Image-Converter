@@ -1,6 +1,5 @@
 flet==0.28.3
 pillow==10.4.0
-pyinstaller==6.10.0
 pytest==8.3.3
 coverage==7.6.1
 ruff==0.6.4
