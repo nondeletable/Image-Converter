@@ -5,6 +5,11 @@
 <h2>Image Converter</h2>
 <p>A clean desktop app for batch renaming and converting images - fast, safe filenames, and predictable results.</p>
   <p>
+    <a href="https://github.com/nondeletable/Image-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13">
+    <a href="https://github.com/nondeletable/Image-Converter/releases"><img src="https://img.shields.io/github/v/release/nondeletable/Image-Converter?label=release" alt="Latest release"></a>
+  </p>
+  <p>
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-EN.md">English </a> |  
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-DE.md">Deutsch </a> |
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-CN.md">简体中文 </a> | 
@@ -86,6 +91,14 @@ So this app does two things in one clean workflow:
 - Test coverage: **87%**
 - Releases: **3** (total versions: **5**)
 - Windows build size: ~**83 MB**
+&nbsp;
+&nbsp;
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nondeletable/Image-Converter/blob/main/LICENSE) file for details.
+
+© 2025-2026 nondeletable
 &nbsp;
 &nbsp;
 

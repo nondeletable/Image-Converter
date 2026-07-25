@@ -5,6 +5,11 @@
 <h2>Image Converter</h2>
 <p>一款简洁的桌面应用，用于批量重命名和转换图片——快速、安全的文件名，以及可预期的结果。</p>
   <p>
+    <a href="https://github.com/nondeletable/Image-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13">
+    <a href="https://github.com/nondeletable/Image-Converter/releases"><img src="https://img.shields.io/github/v/release/nondeletable/Image-Converter?label=release" alt="Latest release"></a>
+  </p>
+  <p>
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-EN.md">English </a> |  
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-DE.md">Deutsch </a> |
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-CN.md">简体中文 </a> | 
@@ -86,6 +91,14 @@ Image Converter 最初是为了解决一个非常实际的问题而创建的：�
 - 测试覆盖率：**87%**
 - 发布版本：**3**（总版本数：**5**）
 - Windows 构建体积：约 **83 MB**
+&nbsp;
+&nbsp;
+
+## 📄 许可证
+
+本项目采用 MIT 许可证 - 详见 [LICENSE](https://github.com/nondeletable/Image-Converter/blob/main/LICENSE) 文件。
+
+© 2025-2026 nondeletable
 &nbsp;
 &nbsp;
 

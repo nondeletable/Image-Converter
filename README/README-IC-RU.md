@@ -5,6 +5,11 @@
 <h2>Image Converter</h2>
 <p>Приложение для пакетного переименования и конвертации изображений - быстро, с безопасными именами файлов и предсказуемым результатом.</p>
   <p>
+    <a href="https://github.com/nondeletable/Image-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13">
+    <a href="https://github.com/nondeletable/Image-Converter/releases"><img src="https://img.shields.io/github/v/release/nondeletable/Image-Converter?label=release" alt="Latest release"></a>
+  </p>
+  <p>
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-EN.md">English </a> |  
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-DE.md">Deutsch </a> |
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-CN.md">简体中文 </a> | 
@@ -84,6 +89,14 @@ Image Converter создавался как небольшой вспомога�
 - Покрытие тестами: **87%**
 - Релизы: **3** (всего версий: **5**)
 - Размер сборки Windows: ~**83 МБ**
+&nbsp;
+&nbsp;
+
+## 📄 Лицензия
+
+Проект распространяется под лицензией MIT - подробности в файле [LICENSE](https://github.com/nondeletable/Image-Converter/blob/main/LICENSE).
+
+© 2025-2026 nondeletable
 &nbsp;
 &nbsp;
 
