@@ -5,6 +5,11 @@
 <h2>Image Converter</h2>
 <p>Một ứng dụng desktop gọn gàng để đổi tên và chuyển đổi hình ảnh hàng loạt - nhanh chóng, tên tệp an toàn và kết quả ổn định.</p>
   <p>
+    <a href="https://github.com/nondeletable/Image-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13">
+    <a href="https://github.com/nondeletable/Image-Converter/releases"><img src="https://img.shields.io/github/v/release/nondeletable/Image-Converter?label=release" alt="Latest release"></a>
+  </p>
+  <p>
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-EN.md">English </a> |  
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-DE.md">Deutsch </a> |
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-CN.md">简体中文 </a> | 
@@ -86,6 +91,14 @@ Vì vậy, ứng dụng này kết hợp hai thao tác trong một quy trình r�
 - Độ bao phủ kiểm thử: **87%**
 - Bản phát hành: **3** (tổng số phiên bản: **5**)
 - Kích thước bản dựng Windows: khoảng **83 MB**
+&nbsp;
+&nbsp;
+
+## 📄 Giấy phép
+
+Dự án này được cấp phép theo Giấy phép MIT - xem tệp [LICENSE](https://github.com/nondeletable/Image-Converter/blob/main/LICENSE) để biết chi tiết.
+
+© 2025-2026 nondeletable
 &nbsp;
 &nbsp;
 
