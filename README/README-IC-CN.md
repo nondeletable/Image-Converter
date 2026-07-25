@@ -5,9 +5,9 @@
 <h2>Image Converter</h2>
 <p>一款简洁的桌面应用，用于批量重命名和转换图片——快速、安全的文件名，以及可预期的结果。</p>
   <p>
-    <a href="https://github.com/nondeletable/Image-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-    <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13">
-    <a href="https://github.com/nondeletable/Image-Converter/releases"><img src="https://img.shields.io/github/v/release/nondeletable/Image-Converter?label=release" alt="Latest release"></a>
+    <a href="https://github.com/nondeletable/Image-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-805a96.svg" alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/Python-3.13-805a96.svg" alt="Python 3.13">
+    <a href="https://github.com/nondeletable/Image-Converter/releases"><img src="https://img.shields.io/github/v/release/nondeletable/Image-Converter?label=release&color=805a96" alt="Latest release"></a>
   </p>
   <p>
     <a href="https://github.com/nondeletable/Image-Converter/tree/main/README/README-IC-EN.md">English </a> |  
